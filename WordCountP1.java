@@ -1,5 +1,6 @@
 // This code is for question one of the programming project one at the course of Cloud Computing and Storage. 
-// It is from http://wiki.apache.org/hadoop/WordCount.
+// It counts the frequency of single word.
+// It is based on the code from http://wiki.apache.org/hadoop/WordCount.
 
 import java.io.IOException;
 import java.util.*;

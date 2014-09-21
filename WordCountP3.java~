@@ -1,5 +1,3 @@
-// Fuyong Xing
-// Department of Electrical and Computer Engineering
 // This code is for Task 3 of Programming Assignment 1 at the course: Cloud Computing and Storage.
 // It uses DistributedCache to count the frequency of one-word in another given list.
 // It is implemented using OpenJDK 6 and Hadoop 0.20.2. 

@@ -1,3 +1,5 @@
+// Fuyong Xing
+// Department of Electrical and Computer Engineering
 // This code is for Task 2 of Programming Assignment 1 at the course: Cloud Computing and Storage.
 // It counts the frequency of double-word given a text input. It is implemented using OpenJDK 6 and Hadoop 0.20.2. 
 // It is based on the code from http://wiki.apache.org/hadoop/WordCount.
